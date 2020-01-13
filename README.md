@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Most Asked Interview Questions
 
 You can use the [editor on GitHub](https://github.com/rohith-gunti/educate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
